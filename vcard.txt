@@ -1,0 +1,11 @@
+BEGIN:VCARD
+N:Joker Koning;Willem
+TEL;TYPE=work,VOICE:+31(20)522 6161
+TEL;TYPE=mobile:+31(6)54000000
+EMAIL:willem.joker-koning@nl.nl
+ORG:NL
+TITLE:Joker
+ADR;TYPE=WORK,PREF:Nieuwezijds Voorburgwal 147;1012RJ Amsterdam;Nederland
+URL:https://nl.nl
+VERSION:3.0
+END:VCARD
